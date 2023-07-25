@@ -1,7 +1,7 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
-import Application from 'C:/Users/mahak/Zeeve/myreact/client/src/application.tsx';
-import reportWebVitals from 'C:/Users/mahak/Zeeve/myreact/client/src/reportWebVitals.ts';
+import Application from 'client/src/application.tsx';
+import reportWebVitals from 'client/src/reportWebVitals.ts';
 
 ReactDOM.render(
   <React.StrictMode>
